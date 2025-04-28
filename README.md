@@ -4,23 +4,17 @@
 
 ## 📋 Descrição
 
-Este é um projeto desenvolvido como parte do curso de **Desenvolvimento de Sistemas** do **SENAI**. O objetivo principal deste sistema é [descreva brevemente o objetivo do seu projeto, ex: "gerenciar tarefas de forma eficiente", "automatizar processos de vendas", etc].
-
+Este é um projeto desenvolvido como parte do curso de **Desenvolvimento de Sistemas** do **SENAI**. O objetivo principal deste sistema é de participar em experiências sobre a linguagens de progamações selecionadas pelo **SENAI**.
 ## 🛠️ Tecnologias Utilizadas
 
-- [Linguagem de programação, ex: JavaScript / Python / Java]
-- [Framework ou biblioteca, se houver, ex: React / Flask / Spring Boot]
-- [Banco de dados, se houver, ex: MySQL / MongoDB]
-- [Outras ferramentas ou APIs utilizadas]
+- [Linguagem de programação: JavaScript / Python / Java / Portugol / HTML]
 
 ## 📦 Funcionalidades
 
-- ✅ [Funcionalidade 1 – ex: Cadastro de usuários]
-- ✅ [Funcionalidade 2 – ex: Login e autenticação]
+- 🔄 [Funcionalidade 1 – em desenvolvimento]
+- 🔄 [Funcionalidade 2 – em desenvolvimento]
 - 🔄 [Funcionalidade 3 – em desenvolvimento]
 - ⛔ [Funcionalidade futura ou não implementada ainda]
-
-## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
    ```bash
