@@ -7,7 +7,7 @@
 Este é um projeto desenvolvido como parte do curso de **Desenvolvimento de Sistemas** do **SENAI**. O objetivo principal deste sistema é de participar em experiências sobre a linguagens de progamações selecionadas pelo **SENAI**.
 ## 🛠️ Tecnologias Utilizadas
 
-- [Linguagem de programação: JavaScript / Python / Java / Portugol / HTML]
+- [Linguagem de programação: C / C# / CSS / HTML / Java / JavaScript / Portugol / Python]
 
 ## 📦 Funcionalidades
 
