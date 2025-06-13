@@ -15,7 +15,3 @@ Este é um projeto desenvolvido como parte do curso de **Desenvolvimento de Sist
 - 🔄 [Funcionalidade 2 – em desenvolvimento]
 - 🔄 [Funcionalidade 3 – em desenvolvimento]
 - ⛔ [Funcionalidade futura ou não implementada ainda]
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
